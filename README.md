@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/introcomponentwithsignupformmaster-S_VoT_1I5r
+- Live Site URL: https://logeshpr-signup.netlify.app
 
 ## My process
 
